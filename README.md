@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/70285547/93153583-f8281780-f6d7-11ea-89de-c350791b06cd.png" height="400" width="850"></img>
+  <img src="https://user-images.githubusercontent.com/70285547/93153583-f8281780-f6d7-11ea-89de-c350791b06cd.png" height="200" width="500"></img>
 </p>
 <p align="center">
   <a aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.18.3">
