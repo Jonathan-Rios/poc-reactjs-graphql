@@ -12,6 +12,15 @@
 
 # Proof of Concept - utilizando: GraphQL, React JS, NodeJS e MongoDB
 
+# Comandos utilizados & dependências
+
+* yarn init -y
+* yarn add graphql-yoga
+* yarn add nodemon -D
+* node src/server.js
+* yarn add mongoose
+* yarn add express  
+
 # Imagens
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70285547/93153697-3cb3b300-f6d8-11ea-83f0-90735e83090e.png" height="350" width="1000">
