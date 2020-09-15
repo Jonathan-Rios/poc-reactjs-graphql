@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playlyfe/gql": "^2.6.2",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "graphql-yoga": "^1.18.3",
+    "mongoose": "^5.10.5"
+  },
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "clean": "kill -9 $(lsof -t -i:3333)"
+  }
+}
